@@ -1,0 +1,28 @@
+# Visual Studio
+.vs/
+*.VC.db
+*.VC.opendb
+*.VC.db-shm
+*.VC.db-wal
+*.suo
+*.user
+*.userosscache
+
+# Build output
+Debug/
+Release/
+x64/
+x86/
+ipch/
+
+# Visual Studio generated files
+*.obj
+*.pch
+*.pdb
+*.idb
+*.ilk
+*.tlog
+*.lastbuildstate
+
+# Logs
+*.log
