@@ -1,22 +1,22 @@
 {
-    "build":  202608170400,
+    "build":  202608170438,
     "packageUrl":  "Project-Crossroads-Update.zip",
-    "sha256":  "B99875D1ED081EB15D9CEBAF2305CD2AF467A012DC8ED9BEE27768081B15E89D",
+    "sha256":  "627B5A0AA3437E3B3289728EE775BF6A85A6705C87228F7AB257D1CBD4678550",
     "platform":  {
-                     "build":  202608170400,
+                     "build":  202608170438,
                      "packageUrl":  "Project-Crossroads-Update-platform.zip",
-                     "sha256":  "05BA219825743D4878E60167C4775CA083E957F8FDAE0E11A38BD17657C0CF49"
+                     "sha256":  "E25F631E0D704EC0C9223A47DC8AE8FDEA66F2E3F3450F2132F01CE15C5FB0CF"
                  },
     "games":  {
                   "fallout3":  {
-                                   "build":  202608170400,
+                                   "build":  202608170438,
                                    "packageUrl":  "Project-Crossroads-Update-fallout3.zip",
-                                   "sha256":  "770872FC2702D11E98A5F8FA653EEDF675C3AA191E1B37CECF9F1A8BDCB25195"
+                                   "sha256":  "6BD57D33EA800C73796C4FE73B85B524867B0676CE54DB434F21599A20A9E064"
                                },
                   "kotor1":  {
-                                 "build":  202608170400,
+                                 "build":  202608170438,
                                  "packageUrl":  "Project-Crossroads-Update-kotor1.zip",
-                                 "sha256":  "0369A3843AE45D49F9D146C6C18F66073E252E66FB582BACF2ED704FDBE1A5ED"
+                                 "sha256":  "8BC6829130F9353E692FE77BEBB0A1C1DE6B543D79381CA5B0C24276116FA750"
                              }
               }
 }
