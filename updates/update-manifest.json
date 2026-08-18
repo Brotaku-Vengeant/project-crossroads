@@ -12,11 +12,6 @@
                                  "build":  202608181514,
                                  "packageUrl":  "Project-Crossroads-Update-kotor1.zip",
                                  "sha256":  "146690CDB3ED429D1DF7BCFD7B87DEE04B6BECBE28808713565A8CA2C383F66E"
-                             },
-                  "fallout3":  {
-                                   "build":  202608170544,
-                                   "packageUrl":  "Project-Crossroads-Update-fallout3.zip",
-                                   "sha256":  "823C852CFFA944359EE5709C0CEAD9F38E7AE0824BB49DDAF6674C884372A385"
-                               }
+                             }
               }
 }
