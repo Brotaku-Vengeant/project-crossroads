@@ -14,9 +14,9 @@
                                    "sha256":  "823C852CFFA944359EE5709C0CEAD9F38E7AE0824BB49DDAF6674C884372A385"
                                },
                   "kotor1":  {
-                                 "build":  202608171721,
+                                 "build":  202608171835,
                                  "packageUrl":  "Project-Crossroads-Update-kotor1.zip",
-                                 "sha256":  "744365742DAC98BF490EF9F1E68264B8099CB1B228CF74D1002895D77C4C6B7A"
+                                 "sha256":  "A08612340C17DE480A4C2767DE339DD8D93BD64AB06B2E909BBB468A5545A607"
                              }
               }
 }
