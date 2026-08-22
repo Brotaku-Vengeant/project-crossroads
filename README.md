@@ -16,8 +16,14 @@ their own characters, with their own name, face and appearance taken from their
 save; movement and animation are mirrored; equipment changes reach the right
 player mid-session; and players can walk between areas and still see each other.
 
-**Fallout 3** has two-player movement and visible remote players in the
-exterior world. Work on it is currently paused while KotOR moves forward.
+**Fallout 3** ships a client for the first time as of build 202608211710. It is a
+test build, not a playable game: it is built to show another player as a
+stand-in body in your world, driven by the network, and **it has not yet been
+proven between two real machines** -- making that test possible is the whole
+point of this build. Known limits, stated plainly: stand-ins do not turn and do
+not animate (they slide, facing whichever way they spawned); a stand-in can pass
+through geometry; and the test server has no authentication yet, so join only
+with people you know.
 
 **Neither is finished.** Combat, quests, inventory, NPCs and dialogue are not
 synchronized in either game. Only players are shared.
@@ -33,8 +39,11 @@ adapter behind them.
 
 The current tester targets Windows, plus:
 
-- **Fallout 3**: Game of the Year Edition, `Fallout3.exe` 1.7.0.3 produced by
-  the Fallout Anniversary Patcher, and FOSE 1.2 beta 2
+- **Fallout 3**: the English Steam release (the `Fallout 3 goty` install) as
+  Steam installs it -- **no FOSE and no Anniversary Patcher**. The join checks
+  the game build before it changes anything and refuses any other build. It
+  copies one plugin into `Data` and enables it (backing up your load order
+  first); `Uninstall-Crossroads-Fallout3.ps1`, beside the launcher, reverses that.
 - **KotOR I**: the English Steam release
 
 Download the
@@ -46,6 +55,19 @@ After setup, the launcher checks this repository's update channel and installs
 verified Crossroads program updates, so testers do not download replacement ZIP
 files. Updates are fetched over HTTPS and must pass a published SHA-256 check;
 a failed check installs nothing and leaves the existing build alone.
+
+## Latest release -- build 202608211710
+
+- **New: the Fallout 3 client component.** Pressing Join on the Fallout 3 tab
+  now installs the `fallout3` component and launches the game with the
+  Crossroads client. Until this build the Fallout 3 test server was already
+  listed ONLINE, but Join answered "not built yet" -- the server was real and
+  the shipped launcher had no client for it. This build is what makes that tab
+  honest.
+- Launcher (platform) updates travel through the launcher's own updater;
+  Fallout-specific files travel through the Fallout 3 component. No file is
+  managed by both.
+- KotOR I is unchanged in this release.
 
 ## Status
 
