@@ -1,11 +1,11 @@
 {
-    "build":  202609301542,
+    "build":  202610061028,
     "packageUrl":  "Project-Crossroads-Update.zip",
-    "sha256":  "ECE99A918F96C7248E907D78D38056EA849E7FFBBEEB01B5ECB1A0D0CC2EF255",
+    "sha256":  "9D46306FD2B31377F7BB173E04F65546A248B477A4C8BDE2F4669DB103257BA2",
     "platform":  {
-                     "build":  202609301542,
+                     "build":  202610061028,
                      "packageUrl":  "Project-Crossroads-Update-platform.zip",
-                     "sha256":  "A3B55E10CDFFF5DA3E8C6CCB1D71C92F1DC14A00AA1B8465E505F3B4EE300205"
+                     "sha256":  "21691FCFE67498C138C3761E27E843E85C118CEBD05488245C6969DF7E0D5F8C"
                  },
     "games":  {
                   "fallout3":  {
