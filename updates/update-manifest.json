@@ -1,11 +1,11 @@
 {
-    "build":  202610251257,
+    "build":  202610251322,
     "packageUrl":  "Project-Crossroads-Update.zip",
-    "sha256":  "E522C0BEA4A15FAC95F2C5EC7F9A50D2DB15642134B78430A492304798309A10",
+    "sha256":  "BD61F7A9EAB7351617D477588D21960B153C85E54BF1236109A06EE193390007",
     "platform":  {
-                     "build":  202610251257,
+                     "build":  202610251322,
                      "packageUrl":  "Project-Crossroads-Update-platform.zip",
-                     "sha256":  "E1BC2643545206F0147F90E39223E2D2968F77290992A42B812D38D943A8EF73"
+                     "sha256":  "25F1230683925C6F15DF7633F627C044A31A5DAB5E6048D59342A3C120064370"
                  },
     "games":  {
                   "kotor1mp":  {
