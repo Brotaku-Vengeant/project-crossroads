@@ -9,9 +9,9 @@
                  },
     "games":  {
                   "kotor1":  {
-                                 "build":  202610271725,
+                                 "build":  202610271807,
                                  "packageUrl":  "Project-Crossroads-Update-kotor1.zip",
-                                 "sha256":  "044677118660BF912FFA920FE6F69D434EB25BED193322C995499B2C44793D62"
+                                 "sha256":  "C327D710853AB3BBFCDC12E5739462BF0549BB0A54B061BE097016D191B841A1"
                              },
                   "fallout3":  {
                                    "build":  202609031754,
